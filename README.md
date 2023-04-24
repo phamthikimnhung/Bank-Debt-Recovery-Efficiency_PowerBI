@@ -7,6 +7,7 @@ The dataset of Bank X includes a table containing debt collection information of
 # II. Requirement of the Project
 Analyzing debt recovery efficiency so that the Head of Collection of Bank X can see the debt recovery efficiency of its partners. Based on the findings, informed decisions can be made regarding the allocation of debt portfolios for the upcoming quarter, as well as the development of a suitable cooperation strategy.
 # III. Design Thinking Method
+Before developing solutions and visualizing data related to the problem, I will undertake a deep understanding of the problem through the application of the five primary stages of the design thinking process.
 ![image](https://user-images.githubusercontent.com/129883764/233991659-f9535e5a-9412-4cec-a12e-903f3ef0d1b5.png)
 # VI. Visualization in Power BI
 ![image](https://user-images.githubusercontent.com/129883764/233992042-ead7f7c8-8f87-460d-b38b-0f1d249444d7.png)
