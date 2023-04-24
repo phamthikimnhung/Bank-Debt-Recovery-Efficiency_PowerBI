@@ -21,7 +21,7 @@ Before developing solutions and visualizing data related to the problem, I will 
 ### Top 1: ASA
 * Average debt recovery rate: 0.11%
 * ASA has an unstable debt collection rate compared to the same period last year:<br>
-   ** January and February: The debt recovery rate in 2021 is much lower than in 2020. Specifically, the rate in January 2020 was 0.2%, while in January 2021 it was 0.14%. The rate in February 2020 was 0.28%, while in February 2021 it was 0.06%.
+   ** January and February: The debt recovery rate in 2021 is much lower than in 2020. Specifically, the rate in January 2020 was 0.2%, while in January 2021 it was 0.14%. The rate in February 2020 was 0.28%, while in February 2021 it was 0.06%. <br>
    ** March, April, and May: The debt recovery rate in 2021 is higher than in 2020. Specifically, the rate in March 2021 was 0.17%, while in March 2020 it was 0.15%. The rate in April 2021 was 0.12%, while in April 2020 it was 0.08%. The rate in May 2021 was 0.11%, while in May 2020 it was 0.06%.
  * The strength of this company is the Overdraft product, with a recovery rate of 0.26%.
 ### Top 2: GLX
