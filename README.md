@@ -40,3 +40,10 @@ NDC is a notable partner company, although the recovery rate is not in the top 3
 * Products that this company can collect are Other (0.32%) and Credit Card (0.26%)
 * Ability to recover dead loan debts, continuously ranked in TOP in terms of ability to recover bad loan debts (59.7%) 2.6 times larger than FBI in second place in terms of ability to recover dead loan debts (22.93%)
 # VI. My Recommendation
+1. Allocate debt portfolios based on each company's strengths, and focus on companies that achieve high debt collection efficiency.
+* NDC: Other, Credit Card, Overdraft
+* ASA: Overdraft, Credit Card, Unsecured Loan
+* GLX: Overdraft, HHB, Credit Card
+* HMK: Overdraft and credit card
+2. Focus on the NDC partner, particularly for the DPD range, which is the dead loan group.
+3. Implement a ranking policy that allocates better portfolios to partners with a good recovery rate. This could involve a ranking system or scoring mechanism that takes into account the recovery rate or other metrics related to debt recovery for each partner.
