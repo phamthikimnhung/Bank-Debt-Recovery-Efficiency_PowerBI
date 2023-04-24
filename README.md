@@ -1,7 +1,7 @@
 # OS Collection Performance
 # I. Dataset
 ## 1. Introduction about dataset
-The dataset of Bank X includes a table containing debt collection information of partners by month in 2020 and 2021	
+The dataset of Bank X includes a table containing debt collection information of partners by month in 2020 and 2021 (The detailed file with the name _"1. OS_Collection_Dataset.xlsx"_ can be downloaded from the above location)
 ## 2. Data Dictionary
 ![image](https://user-images.githubusercontent.com/129883764/233991260-6f6ac9a3-5e54-4a4a-a399-9414bfdf7279.png)
 # II. Requirement of the Project
