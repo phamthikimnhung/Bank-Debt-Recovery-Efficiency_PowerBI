@@ -39,3 +39,4 @@ NDC is a notable partner company, although the recovery rate is not in the top 3
 * As a result, from March to May 2021, NDC ranked first in the amount of collected and paid nearly 5.5 billion (March 2021).
 * Products that this company can collect are Other (0.32%) and Credit Card (0.26%)
 * Ability to recover dead loan debts, continuously ranked in TOP in terms of ability to recover bad loan debts (59.7%) 2.6 times larger than FBI in second place in terms of ability to recover dead loan debts (22.93%)
+# VI. My Recommendation
