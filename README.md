@@ -17,7 +17,7 @@ Overview:<br>
 * The secured loan product has the lowest payment rate (0.02%) and the third-highest outstanding balance, worth 41T. NDC is the top-ranked company in terms of debt recovery for this product, with a recovery rate of 0.03%. In December 2020, this product had the best debt collection, with payments totaling 1.3bn. In October 2020, NDC collected debt payments for this product worth over 950 million, and in December 2020, the FBI collected debt payments worth over 1.1 billion.
 * The unsecured loan product has the highest outstanding balance among all products, accounting for nearly 50% of the debt (worth 136T). The average debt recovery rate for this product is 0.07%, and it is well-recovered by ASA, HMK, and GLX. <br>
 The top 3 partners with the highest recovery rates are ASA, GLX, and HMK.<br>
-###Top 1: ASA
+### Top 1: ASA
 * Average debt recovery rate: 0.11%
 * ASA has an unstable debt collection rate compared to the same period last year:<br>
    ** January and February: The debt recovery rate in 2021 is much lower than in 2020. Specifically, the rate in January 2020 was 0.2%, while in January 2021 it was 0.14%. The rate in February 2020 was 0.28%, while in February 2021 it was 0.06%.
